@@ -39,7 +39,7 @@ namespace ExceptionHandlingExercise
             }
 
 
-            //TODO START HERE:
+            //DONE START HERE:
             
             // Make a foreach loop to iterate through your character array
             
